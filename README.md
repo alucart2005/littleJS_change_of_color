@@ -9,7 +9,7 @@ My first steps in JavaScript 😊
 
 ## Preview PC
 
-![..]()
+![..](https://github.com/alucart2005/littleJS_change_of_color/blob/main/images/preview.jpg?raw=true)
 
 ## Hiring 
 If you want to hire me you can write to napoleonanaya@gmail.com
