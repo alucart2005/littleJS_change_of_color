@@ -4,3 +4,8 @@ function ToggleMenu(){
   menuToggle.classList.toggle('active');
   navigation.classList.toggle('active');
 }
+
+function ImgSlider(src){
+  document.getElementById('slider').src = src;
+}
+
